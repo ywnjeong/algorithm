@@ -1,3 +1,5 @@
+#2501
+#약수 구하기
 n,k=map(int, input().split())
 i=1
 while i<=n:
